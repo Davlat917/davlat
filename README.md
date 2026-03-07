@@ -1,51 +1,59 @@
-
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to!+;+My+Github+Accont;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+GitHub+Profile!;<Hello+World+/>" alt="Welcome Typing SVG" />
 </h1>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davlat917&theme=github_dark" alt="info">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davlat917&show_icons=true&locale=en&layout=compact" alt="Davlat917" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davlat917&show_icons=true&locale=en" alt="temirovuz" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davlat917" alt="Davlat917" /></p>
-
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekhzod&theme=github_dark&layout=compact)](https://wakatime.com/@bekhzod) -->
-
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/davlat917"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-      <img src="https://skillicons.dev/icons?i=git,python,cpp,sqlite,postman,github,gitlab,linux,dart,Flutter" />
-</p>
+<h3 align="center">Software Developer | Python & Dart/Flutter</h3>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com//Davlat917/Davlat917/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-<hr/>
-<div id="badges">
   <a href="https://t.me/davlat917">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/salimov.d1/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    <a href="https://www.linkedin.com/in/rustam-jumanazarov-2545352aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/rustam-jumanazarov-2545352aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+    <h3>🛠️ Languages and Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,python,cpp,sqlite,postman,github,gitlab,linux,dart,flutter" alt="Skill Icons" />
+</div>
+
+<br/>
+
+<div align="center">
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davlat917&theme=github_dark" alt="Profile Details">
+    <br><br>
+    <a href="https://github.com/Davlat917">
+      <img src="https://github-readme-stats.vercel.app/api?username=Davlat917&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Davlat917">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Davlat917&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </a>
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davlat917&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+    <h3>🚀 My Projects / Apps</h3>
+    <p><i>Stay tuned for my awesome apps...</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 My Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davlat917/Davlat917/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davlat917/Davlat917/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Davlat917/Davlat917/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<hr/>
